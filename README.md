@@ -27,14 +27,14 @@ Welcome to my GitHub profile! I'm a passionate Artificial Intelligence and Data 
 
 Here are some of the projects I've worked on:
 
-- **[Vrinda Store Data Analysis Dashboard](https://github.com/yourusername/Vrinda-Store-Data-Analysis-Dashboard)**: Analyzing sales data for Vrinda Store to uncover trends and insights.
-- **[IPL Analysis Dashboard](https://github.com/yourusername/IPL-Analysis-Dashboard)**: Visualizing and analyzing Indian Premier League data.
-- **[Store Sales Analysis Tableau](https://github.com/yourusername/Store-Sales-Analysis-Tableau)**: Dashboard for analyzing store sales using Tableau.
-- **[Pokémon Dashboard Tableau](https://github.com/yourusername/Pokemon-Dashboard-Tableau)**: Visualizing Pokémon data using Tableau.
-- **[Diabetes Prediction Model](https://github.com/yourusername/Diabetes-Prediction-Model)**: Predicting diabetes risk using a machine learning model.
-- **[Heart Disease Prediction Model](https://github.com/yourusername/Heart-Disease-Prediction-Model)**: Model for predicting heart disease.
-- **[House Price Prediction Model](https://github.com/yourusername/House-Price-Prediction-Model)**: Estimating house prices using predictive modeling.
-- **[Restaurant Data Analysis](https://github.com/yourusername/Restaurant-Data-Analysis)**: Analyzing restaurant data for various insights.
+- **[Vrinda Store Data Analysis Dashboard](https://github.com/sujal029/Vrinda-Store-Data-Analysis-Dashboard)**: Analyzing sales data for Vrinda Store to uncover trends and insights.
+- **[IPL Analysis Dashboard](https://github.com/sujal029/IPL-Analysis-Dashboard)**: Visualizing and analyzing Indian Premier League data.
+- **[Store Sales Analysis Tableau](https://github.com/sujal029/Store-Sales-Analysis-Tableau)**: Dashboard for analyzing store sales using Tableau.
+- **[Pokémon Dashboard Tableau](https://github.com/sujal029/Pokemon-Dashboard-Tableau)**: Visualizing Pokémon data using Tableau.
+- **[Diabetes Prediction Model](https://github.com/sujal029/Diabetes-Prediction-Model)**: Predicting diabetes risk using a machine learning model.
+- **[Heart Disease Prediction Model](https://github.com/sujal029/Heart-Disease-Prediction-Model)**: Model for predicting heart disease.
+- **[House Price Prediction Model](https://github.com/sujal029/House-Price-Prediction-Model)**: Estimating house prices using predictive modeling.
+- **[Restaurant Data Analysis](https://github.com/sujal029/Restaurant-Data-Analysis)**: Analyzing restaurant data for various insights.
 
 ## 📬 Contact
 
