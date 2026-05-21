@@ -1,6 +1,6 @@
 # Hi there, I'm Sujal Singh Bais 👋
 
-Welcome to my GitHub profile! I'm a passionate Artificial Intelligence and Data Science student with a keen interest in developing innovative solutions and analyzing data to drive meaningful insights. Currently, I'm pursuing my degree at Mahakal Institute of Technology in Ujjain, Madhya Pradesh.
+Welcome to my GitHub profile! I'm a passionate Artificial Intelligence and Data Science graduate with a keen interest in developing innovative solutions and analyzing data to drive meaningful insights. I recently completed my degree at Mahakal Institute of Technology, where I built strong foundations in AI, Machine Learning, Data Analytics, and Visualization.
 
 ## 🔍 About Me
 
